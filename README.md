@@ -4,7 +4,7 @@
 <p><em>Data Scientist & Computer Vision Specialist ✌️ woking full time at <a href="https://www.upwork.com/freelancers/~017788af4cf8257821">Upwork</a></br>Graduate Avionics Engineer ✈️ from The Superior University
 </em></p>
 
-**I am a Full Stack Machine Learning/ Deep learning/ Computer Vision Developer with 2+ years of experience in developing enterprise applications and open-source software.**  
+**I am a Full Stack Machine Learning/ Deep learning/ Computer Vision Developer with ~4+ years of experience in developing enterprise applications and open-source software.**  
 
 
 ### ✨ Google's Certified Artificial Intelligence Developer [In-progress] 😉
