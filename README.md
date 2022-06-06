@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Muhammad Haseeb <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<h2> Hey there! I'm Muhammad Haseeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></h2>
 
 <p><em>Data Scientist & Computer Vision Specialist ✌️ woking full time at <a href="https://www.upwork.com/freelancers/~017788af4cf8257821">Upwork</a></br>Graduate Avionics Engineer ✈️ from The Superior University
 </em></p>
