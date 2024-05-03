@@ -7,9 +7,9 @@
 **I am a Full Stack Machine Learning/ Deep learning/ Computer Vision Developer with ~5+ years of experience in developing AI and Automation powered applications and open-source software.**  
 
 
-### ✨ Google's Certified Artificial Intelligence Developer [In-progress] 😉
+### ✨ Google's Certified Artificial Intelligence Developer 😉
 - 🔭  I’m currently working on something cool 😉
-- 💬 &nbsp;Ask me about anything related to Python/Tensorflow/Machine Learning/Deep learning/Scraping/Flask
+- 💬 &nbsp;Ask me about anything related to Python, and AI.
 - ⚡ Fun fact: I ❤️🎮
 
 
